@@ -1,0 +1,77 @@
+{
+  "identifier" : "5CC55552",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_timeRate" : 6
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "6EB4CF90",
+      "localizations" : [
+
+      ],
+      "name" : "Newsletters",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "11.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "4FE6E032",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Our lovely curated monthly newsletter",
+              "displayName" : "GreenTimes",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.examples.GreenBar.newsletters.greentimes",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "GreenTimes",
+          "subscriptionGroupID" : "6EB4CF90",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "6.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "A429351D",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "KetoNews Newsletter",
+              "displayName" : "KetoNews",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.examples.GreenBar.newsletters.ketonews",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "KetoNews",
+          "subscriptionGroupID" : "6EB4CF90",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
