@@ -1,0 +1,109 @@
+{
+  "identifier" : "85ABC67B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "29CDE2CD",
+      "localizations" : [
+        {
+          "description" : "The Classic Ceasar Salad",
+          "displayName" : "Caesar Salad",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dev.GreenBar.recipes.caesar",
+      "referenceName" : "CaesarSalad",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "FADE90BE",
+      "localizations" : [
+        {
+          "description" : "Light and Easy!",
+          "displayName" : "Easy Pasta Salad",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dev.GreenBar.recipes.easypasta",
+      "referenceName" : "EasyPastaSalad",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E32F4352",
+      "localizations" : [
+        {
+          "description" : "A Healthy and Delicious Taco in a Bowl",
+          "displayName" : "Healthy Taco Salad",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dev.GreenBar.recipes.healthytaco",
+      "referenceName" : "HealthyTacoSalad",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "30B2C146",
+      "localizations" : [
+        {
+          "description" : "Sweet, Refreshing and Finely Chopped!",
+          "displayName" : "Tart Cherry Salad",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dev.GreenBar.recipes.tartcherrysalad",
+      "referenceName" : "TartCherrySalad",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "E9925F46",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "10 Healthy Coins",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dev.GreenBar.coins.10",
+      "referenceName" : "10Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "8.99",
+      "familyShareable" : false,
+      "internalID" : "451BD887",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "20 Healthy Coins",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.dev.GreenBar.coins.20",
+      "referenceName" : "20Coins",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_storefront" : "ESP"
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
