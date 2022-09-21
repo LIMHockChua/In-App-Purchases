@@ -15,7 +15,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.dev.GreenBar.recipes.caesar",
+      "productID" : "com.dev.lim.GreenBar.recipes.caesar",
       "referenceName" : "CaesarSalad",
       "type" : "NonConsumable"
     },
@@ -30,7 +30,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.dev.GreenBar.recipes.easypasta",
+      "productID" : "com.dev.lim.GreenBar.recipes.easypasta",
       "referenceName" : "EasyPastaSalad",
       "type" : "NonConsumable"
     },
@@ -45,7 +45,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.dev.GreenBar.recipes.healthytaco",
+      "productID" : "com.dev.lim.GreenBar.recipes.healthytaco",
       "referenceName" : "HealthyTacoSalad",
       "type" : "NonConsumable"
     },
@@ -60,7 +60,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.dev.GreenBar.recipes.tartcherrysalad",
+      "productID" : "com.dev.lim.GreenBar.recipes.tartcherrysalad",
       "referenceName" : "TartCherrySalad",
       "type" : "NonConsumable"
     },
@@ -75,7 +75,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.dev.GreenBar.coins.10",
+      "productID" : "com.dev.lim.GreenBar.coins.10",
       "referenceName" : "10Coins",
       "type" : "Consumable"
     },
@@ -90,7 +90,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.dev.GreenBar.coins.20",
+      "productID" : "com.dev.lim.GreenBar.coins.20",
       "referenceName" : "20Coins",
       "type" : "Consumable"
     }

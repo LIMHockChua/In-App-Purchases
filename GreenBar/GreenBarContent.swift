@@ -35,22 +35,22 @@ import StoreKit
 
 public enum GreenBarContent {
   // Recipes, non-consumables
-  public static let caesarSalad = "com.raywenderlich.GreenBar.recipes.caesar"
-  public static let easyPastaSalad = "com.raywenderlich.GreenBar.recipes.easypasta"
-  public static let healthyTacoSalad = "com.raywenderlich.GreenBar.recipes.healthytaco"
-  public static let tartCherrySalad = "com.raywenderlich.GreenBar.recipes.tartcherrysalad"
+  public static let caesarSalad = "com.dev.lim.GreenBar.recipes.caesar"
+  public static let easyPastaSalad = "com.dev.lim.GreenBar.recipes.easypasta"
+  public static let healthyTacoSalad = "com.dev.lim.GreenBar.recipes.healthytaco"
+  public static let tartCherrySalad = "com.dev.lim.GreenBar.recipes.tartcherrysalad"
 
   // Coins, consumables
-  public static let coins10 = "com.raywenderlich.GreenBar.coins.10"
-  public static let coins20 = "com.raywenderlich.GreenBar.coins.20"
+  public static let coins10 = "com.dev.lim.GreenBar.coins.10"
+  public static let coins20 = "com.dev.lim.GreenBar.coins.20"
 
   // Subscriptions
-  public static let greenTimes = "com.raywenderlich.GreenBar.newsletters.greentimes"
-  public static let ketoNews = "com.raywenderlich.GreenBar.newsletters.ketonews"
+  public static let greenTimes = "com.dev.lim.GreenBar.newsletters.greentimes"
+  public static let ketoNews = "com.dev.lim.GreenBar.newsletters.ketonews"
 
-  public static let recipesPrefix = "com.raywenderlich.GreenBar.recipes"
-  public static let subscriptionsPrefix = "com.raywenderlich.GreenBar.newsletters"
-  public static let consumablesPrefix = "com.raywenderlich.GreenBar.coins"
+  public static let recipesPrefix = "com.dev.lim.GreenBar.recipes"
+  public static let subscriptionsPrefix = "com.dev.lim.GreenBar.newsletters"
+  public static let consumablesPrefix = "com.dev.lim.GreenBar.coins"
 
   private static let productIdentifiers: Set<ProductIdentifier> = [
     GreenBarContent.caesarSalad,
